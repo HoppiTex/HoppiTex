@@ -52,9 +52,9 @@ I am able to create pretty much any 2D game in Penguinmod – with the help of p
 ## Character Designing
 I think I can design characters pretty well. Here some examples:
 
-| ![332](Assets/CD1.png) | ![332](Assets/CD4.png)<br> | ![332](Assets/CD3.png)<br> | ![332](Assets/CD2.png)<br> | ![332](Assets/CD5.png)<br> |
-| ---------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| Filan Zöhl (OC)        | Pyley Jagl (OC)            | Lisß Rosa (OC)             | Wuntbruh (OC)(VeryOld)     | Alfonz (OC)                |
+| ![332](Assets/CD1.png) | ![332](Assets/CD4.png)<br> | ![332](Assets/CD3.png)<br>   | ![332](Assets/CD2.png)<br> | ![332](Assets/CD5.png)<br> |
+| ---------------------- | -------------------------- | ---------------------------- | -------------------------- | -------------------------- |
+| Filan Zöhl (OC)        | Pyley Jagl (OC)            | Lisß Rosa (OC) (image is AI) | Wuntbruh (OC)(VeryOld)     | Alfonz (OC)                |
 
 ## Linux
 I am a normalish Linux user, I can navigate around with the terminal and stuff.
@@ -83,16 +83,16 @@ As I already said, with the help of AI, I coded some apps and features of TrafkT
 **TrafkVerse Screensaver** is the one project that had its very first version ready with only 1 prompt and still looked exactly like how my vision intended it to look!
 ![332](Assets/TVW.png)
 ### Image Generation
-I can generate images with a prompt in one go. As I am a visual thinker, with enough time (again) I can write good prompts that yield good results! Here some examples:
+I can generate images with a prompt. As I am a visual thinker, i am pretty good at describing places (sometimes). But i cannot for the live of me generate good looking male characters (ai models are not trained on them much). I can create scenary and female characters. Here some examples:
 
-| Gemini                                                   | [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator)                                                |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![332](Assets/AIPROMPTINGGEMINI.jpg)                     | ![332](Assets/AIPROMPTINGPERCHANGE.jpg)                                                                                 |
-| This image was a test for complex clothing and position. | This is one of my testing images from my perchance prompt with weights that tested prompt following and error reduction. |
+| [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image)                                                   | ChatGPT (AI image)                                     | Gemini (AI image)                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| ![242](Assets/AII1.jpg)                                                                                                               | ![167](Assets/AII2.png)                                | ![332](Assets/AII3.jpg)                                           |
+| This is one of my testing images from my perchance prompt with weights. This is where i usually test my character image descriptions. | A wallpaper i generated for TrafkTux as a placeholder. | This image was a test for a complex dress in a complex situation. |
 The character visible is my OC called "Lisß Rosa" and is one of the 3 main characters of my main story.
 
 #### Stand on ai art generation:
-Personally I like toying with image generation as it is fun to see what they can do.
+Personally I don't mind using ai imagery to test image descriptions – i do that and it does help somewhat, though i do not use it for anything else as ai cannot create my visions (its too incompitent).
 My opinion is that if you only use AI generated art for personal use or for placeholders or for free assets in a free project, then I think it is okay. If it is in marketing or a paid product or somewhere you can see it very easily and it is something that signals someone that this is what you are doing, then it is in my opinion definitely not ok!
 
 
@@ -102,9 +102,9 @@ I am still learning at the moment, so it will take quite some time until my firs
 
 **A short roadmap on what i have planned on doing and learning**
 
-| Godot & GDScript                                                                                                     | LMMS                                                                                                 | Javascript + server stuff                                                                            | LORE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| For creating my games, i need a engine to do so and godot is perfect for my workflow. I just need to learn it first. | For games you need music and for music you need a program. LMMS is great, i just need to "get good". | For polishing the TrafkHop Website, i will need to learn Javascript and other server related things. | All of my Projects and games have one thing in common: the **TrafkVerse**, my universe. Every of my games storys are intertwined and even non games are included in here. So for any game to exist, the story has to exist up until this point. The base – my universal prinziples are already completed as well as my magic system. So only the story, culture and geography are still missing. Currently my am writing a shortened version of the story that will be the base of everything else. |
+| Godot & GDScript                                                                                                     | LMMS                                                                                                 | Javascript + server stuff                                                                            | LORE                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| For creating my games, i need a engine to do so and godot is perfect for my workflow. I just need to learn it first. | For games you need music and for music you need a program. LMMS is great, i just need to "get good". | For polishing the TrafkHop Website, i will need to learn Javascript and other server related things. | All my projects and games share one universe: the **TrafkVerse**. Their stories are interconnected, including non game projects. A game can only exist if its story exists up to that point. My core universal principles and magic system are done! Story, culture, and geography are still missing. Right now I’m writing a shortened version of the story that will be the foundation for everything else. |
 
 
 
