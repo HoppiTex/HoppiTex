@@ -5,7 +5,7 @@ An Austrian Game Developer.
 [![YouTube](https://img.shields.io/badge/YouTube-HoppiTex-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HoppiTex)
 [![Steam](https://img.shields.io/badge/Steam-HoppiTex-A3C6E0?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198435369832/)
 [![GitHub](https://img.shields.io/badge/Github-HoppiTex-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/HoppiTex)
-[![OLD Scratch](https://img.shields.io/badge/Scratch-OLD:Raufbold3b-f9ba64?style=flat-square&logo=scratch&logoColor=white)](https://discord.gg/HRC9PHGf)
+[![OLD Scratch](https://img.shields.io/badge/Scratch-OLD:Raufbold3b-f9ba64?style=flat-square&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Raufbold3b/)
 
 Yo I'm Daniel, known online as HoppiTex.
 I like programming, writing stories and creating visual things of all kind.
