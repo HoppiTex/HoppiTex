@@ -3,7 +3,7 @@ An Austrian Game Developer.
 <div style="justify-content: center; align-items: center;">
 </div>
 [![Website](https://img.shields.io/badge/Website-TrafkSite-6b3fa0?style=flat-square)](https://trafkhop-entertainment.github.io/TrafkSite/Studio/Members/HoppiTex/index.html)
-[![YouTube](https://img.shields.io/badge/YouTube-HoppiTex-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCnT2V9uGCInXnq9rDaP5v0g](https://www.youtube.com/@HoppiTex))
+[![YouTube](https://img.shields.io/badge/YouTube-HoppiTex-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnT2V9uGCInXnq9rDaP5v0g](https://www.youtube.com/@HoppiTex)
 [![Steam](https://img.shields.io/badge/Steam-HoppiTex-A3C6E0?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198435369832/)
 [![GitHub](https://img.shields.io/badge/Github-HoppiTex-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/HoppiTex)
 [![OLD Scratch](https://img.shields.io/badge/Scratch-OLD:Raufbold3b-f9ba64?style=flat-square&logo=scratch&logoColor=white)](https://discord.gg/HRC9PHGf)
@@ -93,10 +93,10 @@ As I already said, with the help of AI, I coded some apps and features of TrafkT
 ### Image Generation
 I can generate images with a prompt. As I am a visual thinker, i am pretty good at describing places (sometimes). But i cannot for the live of me generate good looking male characters (ai models are not trained on them much). I can create scenary and female characters. Here some examples:
 
-| [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image)                                                   | ChatGPT (AI image)                                     | Gemini (AI image)                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
-| ![242](Assets/AII1.jpg)                                                                                                               | ![167](Assets/AII2.png)                                | ![332](Assets/AII3.jpg)                                           |
-| This is one of my testing images from my perchance prompt with weights. This is where i usually test my character image descriptions. | A wallpaper i generated for TrafkTux as a placeholder. | This image was a test for a complex dress in a complex situation. |
+| [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image)                                                   | ChatGPT (AI image)                                     | Gemini (AI image)                                                 |     |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- | --- |
+| ![242](Assets/AII1.png)                                                                                                               | ![167](Assets/AII2.jpg)                                | ![332](Assets/AII3.jpg)                                           |     |
+| This is one of my testing images from my perchance prompt with weights. This is where i usually test my character image descriptions. | A wallpaper i generated for TrafkTux as a placeholder. | This image was a test for a complex dress in a complex situation. |     |
 The character visible is my OC called "Lisß Rosa" and is one of the 3 main characters of my main story.
 
 #### Stand on ai art generation:
