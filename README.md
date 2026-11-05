@@ -97,10 +97,22 @@ I can generate images with a prompt. As I am a visual thinker, i am pretty good 
 | This is one of my testing images from my perchance prompt with weights. This is where i usually test my character image descriptions. | A wallpaper i generated for TrafkTux as a placeholder.                              | This image was a test for a complex dress in a complex situation. |     |
 The character visible is my OC called "Lisß Rosa" and is one of the 3 main characters of my main story.
 
-#### Stand on ai art generation:
+### Stand on ai:
+
+#### Coding:
+I use ai for coding – i can't code what i would like to. IDK if the code is ai, it does not matter. the user experience is not altered by it and the logic is the same as if a human would make it. Code is just instructions on how something should behave and as long as a human can tell the ai how it should behave it does just not matter. AI is a great TOOL for coding, the human just has to have total overview and control of how it behaves in the end.
+#### Image
 Personally I don't mind using ai imagery to test image descriptions – i do that and it does help somewhat, though i do not use it for anything else as ai cannot create my visions (its too incompitent).
 My opinion is that if you only use AI generated art for personal use or for placeholders or for free assets in a free project, then I think it is okay. If it is in marketing or a paid product or somewhere you can see it very easily and it is something that signals someone that this is what you are doing, then it is in my opinion definitely not ok!
-
+#### TTS
+I HATE IT. TTS is only good for badly reading text. that can already archieved via prerecorded samples or computer wavelengths. AI just can't do that. it just sounds wrong and only voice cloning..... i think its just wrong. it just sounds ass. i'd rather listen to the worst old TTS than some AI TTS.
+#### audio
+no, just no. if you genererate music or songs with ai: GET OUT. i have no respect for you and i do not want anything to do with you.
+#### Writing:
+If you just use it to correct your own writing or make it just a little better WHILE preserving your own writing style: Perfect!
+If you generate yourself shitty stories without any actual involement...... no, no – get out and don't come back.
+#### analysing, dynamic things, etc.:
+Yea thats good, thats a good use case. I use it like that sometimes.
 
 
 # Future Plans
