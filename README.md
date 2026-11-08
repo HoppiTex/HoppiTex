@@ -69,9 +69,8 @@ I am a normalish Linux user, I can navigate around with the terminal and stuff.
 
 With the help of AI, I have also made my very own Linux Distribution, that is visually and functionally 100% my work (code is generated, art is human made)
 
-| ![332](Assets/TRAFKTUX.png) |
-| --------------------------- |
-| ![332](Assets/DISTRO.png)   |
+| ![332](Assets/TRAFKTUX.png) | ![332](Assets/DISTRO.png) |
+| --------------------------- | ------------------------- |
 
 
 
@@ -102,10 +101,13 @@ As I already said, with the help of AI, I coded some apps and features of TrafkT
 ### Image Generation
 I can generate images with a prompt. As I am a visual thinker, i am pretty good at describing places (sometimes). But i cannot for the live of me generate good looking male characters (ai models are not trained on them much). I can create scenary and female characters. Here some examples:
 
-| ChatGPT (AI image)                                     | [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image) | Gemini (AI image)                                                 | ChatGPT (AI Image)      |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- |
-| ![168](Assets/AII1.png)                                | ![203](Assets/AII2.jpg)                                                             | ![169](Assets/AII3.jpg)                                           | ![126](Assets/AII4.png) |
-| A wallpaper i generated for TrafkTux as a placeholder. | This is one of my testing images from my perchance prompt with weights.             | This image was a test for a complex dress in a complex situation. | A clothing test.        |
+| ChatGPT (AI image)                                                | ChatGPT (AI Image)                                                                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![365](Assets/AII1.png)                                           | ![310](Assets/AII4.png)                                                                 |
+| A wallpaper i generated for TrafkTux as a placeholder.            | A clothing test.                                                                        |
+| **Gemini (AI image)**                                             | [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) **(AI image)** |
+| ![326](Assets/AII3.jpg)                                           | ![123](Assets/AII2.jpg)                                                                 |
+| This image was a test for a complex dress in a complex situation. | This is one of my testing images from my perchance prompt with weights.                 |
 The character visible is my OC called "Lisß Rosa" and is one of the 3 main characters of my main story.
 
 ### Stand on ai:
