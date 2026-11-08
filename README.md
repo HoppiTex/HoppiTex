@@ -1,11 +1,7 @@
 # HoppiTex
 An Austrian Game Developer.
 
-[![Website](https://img.shields.io/badge/Website-TrafkSite-6b3fa0?style=flat-square)](https://trafkhop-entertainment.github.io/TrafkSite/Studio/Members/HoppiTex/index.html)
-[![YouTube](https://img.shields.io/badge/YouTube-HoppiTex-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HoppiTex)
-[![Steam](https://img.shields.io/badge/Steam-HoppiTex-A3C6E0?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198435369832/)
-[![GitHub](https://img.shields.io/badge/Github-HoppiTex-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/HoppiTex)
-[![OLD Scratch](https://img.shields.io/badge/Scratch-OLD:Raufbold3b-f9ba64?style=flat-square&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Raufbold3b/)
+[![Website](https://img.shields.io/badge/Website-TrafkSite-6b3fa0?style=flat-square)](https://trafkhop-entertainment.github.io/TrafkSite/Studio/Members/HoppiTex/index.html) [![YouTube](https://img.shields.io/badge/YouTube-HoppiTex-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HoppiTex) [![Steam](https://img.shields.io/badge/Steam-HoppiTex-A3C6E0?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198435369832/) [![GitHub](https://img.shields.io/badge/Github-HoppiTex-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/HoppiTex) [![OLD Scratch](https://img.shields.io/badge/Scratch-OLD:Raufbold3b-f9ba64?style=flat-square&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Raufbold3b/)
 
 Yo I'm Daniel, known online as HoppiTex.
 I like programming, writing stories and creating visual things of all kind.
@@ -21,7 +17,7 @@ I also make letsplays (in german) as a way to preserve my first gaming experienc
 ![671](Assets/TB.png)
 TetraBox is a small collaboration of 4 studios (inc TrafkHop). I made the name and the colors.
 # Education
-- HTL Steyr (IT) + Matura Abschluss
+- IT & Networking
 ### Languages:
 - German (Native)
 - English
@@ -30,10 +26,16 @@ TetraBox is a small collaboration of 4 studios (inc TrafkHop). I made the name a
 # [Projects](https://trafkhop-entertainment.github.io/TrafkSite/Projects/Projects.html)
 Those are (for now) my most relevant projects! (for a full list, visit the TrafkHop Website linked in this header)
 
-| ![TrafkTux](Assets/TRAFKTUX.png)                              | ![Raufbold3bs Scratch Archive](Assets/RSA.svg)                        | TrafkVerse Wallpaper                                                                          | ![TrafkSite](Assets/TS1.png)                                                        | ![SourceHop](Assets/SH.png)                                                                    | TrafkCalc                                                                                      |
-| ------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![332](Assets/DISTRO.png)                                     | ![332](Assets/SP.png)                                                 | ![332](Assets/TVW.png)                                                                        | ![332](Assets/TS2.png)                                                              | - Notes<br>- Images<br>- Audios<br>- Models<br>- Code<br>- Documents<br>- GDScenes             | <br>                                                                                           |
-| An Arch Linux based Distribution that has an artistic vision. | A collection of 15 old Scratch Games that i made quite some time ago. | A wallpaper program that generates symbols and shapes that all play sounds making nice music! | TrafkHop's website!<br>There you can find all sorts of infos, even infos of me!<br> | A collection of Assets that TrafkHop made and uses. Some are available to use in fan projects! | A simple Calculator app for you lore, so that we do not have to manually calculate everything. |
+| Project                                        | Image                                                                              | Explenation                                                                                    |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![TrafkTux](Assets/TRAFKTUX.png)               | ![332](Assets/DISTRO.png)                                                          | An Arch Linux based Distribution that has an artistic vision.                                  |
+| ![Raufbold3bs Scratch Archive](Assets/RSA.svg) | ![332](Assets/SP.png)                                                              | A collection of 15 old Scratch Games that i made quite some time ago.                          |
+| TrafkVerse Wallpaper                           | ![332](Assets/TVW.png)                                                             | A wallpaper program that generates symbols and shapes that all play sounds making nice music!  |
+| ![TrafkSite](Assets/TS1.png)                   | ![332](Assets/TS2.png)                                                             | TrafkHop's website!<br>There you can find all sorts of infos, even infos of me!<br>            |
+| ![SourceHop](Assets/SH.png)                    | - Notes<br>- Images<br>- Audios<br>- Models<br>- Code<br>- Documents<br>- GDScenes | A collection of Assets that TrafkHop made and uses. Some are available to use in fan projects! |
+| TrafkCalc                                      |                                                                                    | A simple Calculator app for you lore, so that we do not have to manually calculate everything. |
+
+
 
 # Skills:
 ## 3D Modeling
@@ -78,10 +80,19 @@ I would say I am pretty good at writing stories with enough time. You can / will
 
 I can say that i have created a fully unique universe with its own mathematicly aligned magic system that is logical and unique! In this universe, many different worlds, creatures, cultures and storys exist in a balance, that is threatened at every step of the way. Stay tuned until i unvail them in my games!
 
+
 ## Drawing
+I can draw a bit, not well but a little bit.
+### Raster
+
 | ![332](Assets/Drawing1.png) | ![336](Assets/Drawing2.png) |
 | :-------------------------: | :-------------------------: |
-I can draw a bit, not well but a little bit.
+
+### SVG
+
+| ![140](Assets/SVG1.svg) | ![247](Assets/SVG2.svg) |
+| ----------------------- | ----------------------- |
+
 
 ## AI Prompting
 ### Coding
@@ -91,10 +102,10 @@ As I already said, with the help of AI, I coded some apps and features of TrafkT
 ### Image Generation
 I can generate images with a prompt. As I am a visual thinker, i am pretty good at describing places (sometimes). But i cannot for the live of me generate good looking male characters (ai models are not trained on them much). I can create scenary and female characters. Here some examples:
 
-| ChatGPT (AI image)                                                                                                                    | [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image) | Gemini (AI image)                                                 |     |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --- |
-| ![242](Assets/AII1.png)                                                                                                               | ![167](Assets/AII2.jpg)                                                             | ![332](Assets/AII3.jpg)                                           |     |
-| This is one of my testing images from my perchance prompt with weights. This is where i usually test my character image descriptions. | A wallpaper i generated for TrafkTux as a placeholder.                              | This image was a test for a complex dress in a complex situation. |     |
+| ChatGPT (AI image)                                     | [Perchance ai-anime-generator](https://perchance.org/ai-anime-generator) (AI image) | Gemini (AI image)                                                 | ChatGPT (AI Image)      |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------- |
+| ![168](Assets/AII1.png)                                | ![203](Assets/AII2.jpg)                                                             | ![169](Assets/AII3.jpg)                                           | ![126](Assets/AII4.png) |
+| A wallpaper i generated for TrafkTux as a placeholder. | This is one of my testing images from my perchance prompt with weights.             | This image was a test for a complex dress in a complex situation. | A clothing test.        |
 The character visible is my OC called "Lisß Rosa" and is one of the 3 main characters of my main story.
 
 ### Stand on ai:
@@ -120,9 +131,13 @@ I am still learning at the moment, so it will take quite some time until my firs
 
 **A short roadmap on what i have planned on doing and learning**
 
-| Godot & GDScript                                                                                                     | LMMS                                                                                                 | Javascript + server stuff                                                                            | LORE                                                                                                                                                                                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| For creating my games, i need a engine to do so and godot is perfect for my workflow. I just need to learn it first. | For games you need music and for music you need a program. LMMS is great, i just need to "get good". | For polishing the TrafkHop Website, i will need to learn Javascript and other server related things. | All my projects and games share one universe: the **TrafkVerse**. Their stories are interconnected, including non game projects. A game can only exist if its story exists up to that point. My core universal principles and magic system are done! Story, culture, and geography are still missing. Right now I’m writing a shortened version of the story that will be the foundation for everything else. |
+
+| Thing                     | Explenation                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Godot & GDScript          | For creating my games, i need a engine to do so and godot is perfect for my workflow. I just need to learn it first.                                                                                                                                                                                                                                                                                          |
+| LMMS                      | For games you need music and for music you need a program. LMMS is great, i just need to "get good".                                                                                                                                                                                                                                                                                                          |
+| Javascript + server stuff | For polishing the TrafkHop Website, i will need to learn Javascript and other server related things.                                                                                                                                                                                                                                                                                                          |
+| LORE                      | All my projects and games share one universe: the **TrafkVerse**. Their stories are interconnected, including non game projects. A game can only exist if its story exists up to that point. My core universal principles and magic system are done! Story, culture, and geography are still missing. Right now I’m writing a shortened version of the story that will be the foundation for everything else. |
 
 
 
